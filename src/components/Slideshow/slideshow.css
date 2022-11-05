@@ -1,0 +1,23 @@
+.slideshow {
+  background-color: #151414;
+  border-radius: 0 0 8px 8px;
+}
+
+.slideshow img {
+  width: 100%;
+  /* border-radius: 8px; */
+}
+
+.slideshow h2 {
+  color: #fff;
+  padding: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.slideshow p {
+  color: #fff;
+  padding: 10px 20px;
+  hyphens: auto;
+  text-indent: 38px;
+}
